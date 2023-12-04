@@ -1,7 +1,6 @@
 enigma2-display-skins
 
-Based On :
-ttps://github.com/oe-alliance/enigma2-display-skins/tree/openATV
+Based On: https://github.com/oe-alliance/enigma2-display-skins/tree/openATV
 =====================
 
 This git contains skins for the STB display (VFD/LCD)
